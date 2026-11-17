@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/orbit-icon.png" width="112" alt="Orbit logo" />
+  <img src="assets/orbit-icon.png" width="120" alt="Orbit logo" />
 </p>
 
 <h1 align="center">Orbit</h1>
@@ -14,7 +14,7 @@
   <a href="https://orbit-launcher.vercel.app/privacy">Privacy</a>
 </p>
 
-<p align="center"><img src="assets/banner.jpg" width="760" alt="Orbit: everything you use, one flick away" /></p>
+<p align="center"><img src="assets/banner.png" width="820" alt="Orbit: everything you use, one flick away" /></p>
 
 ---
 
