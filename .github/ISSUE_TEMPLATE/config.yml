@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: Report privately (with a diagnostic log)
-    url: https://orbit-launcher.vercel.app/support
+    url: https://orbit-official-website.vercel.app/support
     about: Inside Orbit, use Settings › Help & feedback, or the form on Orbit's website. Reports go privately to the developer.
   - name: Feature guide and troubleshooting
-    url: https://orbit-launcher.vercel.app/troubleshooting
+    url: https://orbit-official-website.vercel.app/troubleshooting
     about: Quick answers to the most common questions.
   - name: Report a security problem
     url: https://github.com/Avenger11764/Orbit/blob/main/SECURITY.md

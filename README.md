@@ -7,11 +7,11 @@
 <p align="center"><b>Everything you use, one flick away.</b><br />A radial launcher for Windows 10 and 11.</p>
 
 <p align="center">
-  <a href="https://orbit-launcher.vercel.app">Website</a> ·
+  <a href="https://orbit-official-website.vercel.app">Website</a> ·
   <a href="https://github.com/Avenger11764/Orbit/issues/new/choose">Report a problem</a> ·
   <a href="https://github.com/Avenger11764/Orbit/issues/new?template=feature_request.yml">Suggest an idea</a> ·
-  <a href="https://orbit-launcher.vercel.app/guide">Feature guide</a> ·
-  <a href="https://orbit-launcher.vercel.app/privacy">Privacy</a>
+  <a href="https://orbit-official-website.vercel.app/guide">Feature guide</a> ·
+  <a href="https://orbit-official-website.vercel.app/privacy">Privacy</a>
 </p>
 
 <p align="center"><img src="assets/banner.png" width="820" alt="Orbit: everything you use, one flick away" /></p>
@@ -74,7 +74,7 @@ Orbit Pro is a one-time purchase in the Microsoft Store, and you can try it free
 
 ## Help and support
 
-1. **Quick answers:** the [troubleshooting guide](https://orbit-launcher.vercel.app/troubleshooting) and the [feature guide](https://orbit-launcher.vercel.app/guide).
+1. **Quick answers:** the [troubleshooting guide](https://orbit-official-website.vercel.app/troubleshooting) and the [feature guide](https://orbit-official-website.vercel.app/guide).
 2. **From inside Orbit:** open Settings › **Help & feedback** (bottom of the sidebar). It can attach a privacy-safe log and shows you exactly what will be sent first. Reports sent this way reach the developer privately.
 3. **Here on GitHub:** [open an issue](https://github.com/Avenger11764/Orbit/issues/new/choose) to report a bug, suggest an idea or ask a question. Issues here are public, so please don't include personal information.
 
@@ -84,7 +84,7 @@ See [SUPPORT.md](SUPPORT.md) for details, and [SECURITY.md](SECURITY.md) to repo
 
 ## Privacy
 
-Orbit runs on your PC. It has no account, no ads and no analytics, and it sends nothing unless you choose to send a report. Read the [privacy policy](https://orbit-launcher.vercel.app/privacy).
+Orbit runs on your PC. It has no account, no ads and no analytics, and it sends nothing unless you choose to send a report. Read the [privacy policy](https://orbit-official-website.vercel.app/privacy).
 
 ---
 

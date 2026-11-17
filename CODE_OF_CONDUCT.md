@@ -8,4 +8,4 @@ This is a friendly place to get help with Orbit and to shape where it goes next.
 - No harassment, hate, spam or advertising.
 - Don't share anyone's personal information, including your own.
 
-Posts and comments that break these rules may be edited, hidden or removed, and repeat offenders blocked. To report a problem with someone's behaviour, use the [support form](https://orbit-launcher.vercel.app/support).
+Posts and comments that break these rules may be edited, hidden or removed, and repeat offenders blocked. To report a problem with someone's behaviour, use the [support form](https://orbit-official-website.vercel.app/support).
