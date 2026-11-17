@@ -1,0 +1,19 @@
+name: I have a question
+description: Ask how to do something with Orbit.
+title: "[Question] "
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: The [feature guide](https://orbit-launcher.vercel.app/guide) and [troubleshooting](https://orbit-launcher.vercel.app/troubleshooting) answer the most common questions.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Orbit version (if relevant)
+      placeholder: "1.1.0"

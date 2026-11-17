@@ -1,0 +1,36 @@
+name: I have an idea
+description: Suggest a feature, a ready-made ring, or an app wheel.
+title: "[Idea] "
+labels: [idea]
+body:
+  - type: markdown
+    attributes:
+      value: Please search existing ideas first; if yours is there, add a 👍 to it instead.
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like Orbit to do?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: When would you use it?
+      description: The situation it helps with. This matters more than the exact design.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of idea?
+      options:
+        - A new action or slice type
+        - A ready-made wheel for an app
+        - A file conversion
+        - The look of the wheel
+        - Settings
+        - Something else
+  - type: input
+    id: app
+    attributes:
+      label: Related app (if any)
+      placeholder: e.g. Photoshop, OBS, Excel

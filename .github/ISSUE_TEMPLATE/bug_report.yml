@@ -1,0 +1,65 @@
+name: Something isn't working
+description: Report a bug in Orbit.
+title: "[Bug] "
+labels: [bug, triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Orbit better. Issues here are **public**: please don't include personal information.
+        Prefer to report privately (with a diagnostic log)? Use **Settings › Help & feedback** inside Orbit.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead?
+      placeholder: I held Ctrl+Space over File Explorer and chose Make PDF, but…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. …
+        2. …
+        3. …
+  - type: input
+    id: version
+    attributes:
+      label: Orbit version
+      description: Settings › About shows it.
+      placeholder: "1.1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where in Orbit?
+      options:
+        - Opening the wheel (shortcut or mouse button)
+        - A slice / action
+        - Convert files
+        - App wheels / Gallery
+        - Settings
+        - Look and animations
+        - Something else
+  - type: input
+    id: app
+    attributes:
+      label: Which app was in front?
+      description: For example Chrome, File Explorer, a game.
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots or anything else
+      description: Drag images here. Settings › Help & feedback › Show log file opens Orbit's log if it helps (check it for anything private first).
