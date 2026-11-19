@@ -2,7 +2,10 @@
 
 Releases are published here and in the Microsoft Store. Watch this repository (**Watch › Custom › Releases**) to be notified.
 
-## Coming next
+## 1.1.0 · Microsoft Store
+
+Orbit is on the [Microsoft Store](https://apps.microsoft.com/detail/9P1X7Z29ZR6L).
+
 
 - **Orbit Pro:** an optional one-time upgrade with file conversion, text tools, snippets, macros, clipboard history, more slices, unlimited app wheels and every look. Try it free for a day.
 - **Help & feedback** inside Settings: quick answers and a private report form with a "See what's sent" preview.

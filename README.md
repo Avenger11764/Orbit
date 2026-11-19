@@ -49,7 +49,9 @@ Hold a key or a mouse button and a wheel opens right at your pointer, with your 
 
 ## Get Orbit
 
-Orbit is coming to the **Microsoft Store**. Store apps are signed by Microsoft, install without warnings and update automatically. Follow this repository (**Watch › Custom › Releases**) to hear when it's out.
+<p><a href="https://apps.microsoft.com/detail/9P1X7Z29ZR6L?mode=direct"><img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Get it from Microsoft" /></a></p>
+
+**[Get Orbit from the Microsoft Store](https://apps.microsoft.com/detail/9P1X7Z29ZR6L?mode=direct)**. It's free. Store apps are signed by Microsoft, install without warnings and update automatically.
 
 ### Free and Pro
 
