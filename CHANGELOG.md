@@ -1,6 +1,29 @@
 # What's new in Orbit
 
 Releases are published here and in the Microsoft Store. Watch this repository (**Watch › Custom › Releases**) to be notified.
+The full changelog is also on the website: https://orbit-official-website.vercel.app/changelog
+
+## 1.1.4
+
+- **Quick toggles:** a new ready-made ring with Wi-Fi, Bluetooth and the microphone on or off in a flick, plus sound, dark mode, Quick Settings and Do not disturb.
+- **Copy text from anything** (Orbit Pro): drag a box over anything on screen, or pick a picture in File Explorer, and the text is copied. Read offline by Windows; nothing is uploaded.
+- **More in Orbit Free:** the Tiles shape, the Frost theme, and Make PDF and Combine PDF.
+- **Ready-made rings as their own wheel:** add any Gallery ring as a new wheel.
+- **Rate Orbit** from Settings › About.
+- The Orbit Pro trial tells you before it ends, and what you'd lose.
+- Bubbles show their name when you point at one; the wheel names stay clear of them.
+
+## 1.1.3
+
+- **Smart Notch users get 7 days of Orbit Pro free** instead of one.
+
+## 1.1.2
+
+- **Get Orbit Pro** opens the Microsoft Store's purchase window right inside Orbit.
+
+## 1.1.1
+
+- **Get Orbit Pro** opens the Orbit Pro purchase in the Microsoft Store directly.
 
 ## Microsoft Store launch
 
